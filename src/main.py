@@ -1,5 +1,5 @@
 import flet as ft
-from src.model.user import Usuario
+from model.user import Usuario
 
 def main(page: ft.Page):
     # --- Configuración General ---
